@@ -46,8 +46,9 @@ text-align: center;
 padding-top: 13px;
 }
 
-img {
+img {    
     position: absolute;
-    margin-left: 590px;
+    margin-left: 580px;
     width: 383px;   
+    margin-top: -380px;
 }
